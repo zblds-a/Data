@@ -1,0 +1,12 @@
+
+1. https://github.com/dbeaver/dbeaver
+
+2. https://github.com/trinodb/trino
+
+3. https://github.com/spring-projects/spring-boot
+
+4. https://github.com/elastic/elasticsearch
+
+5. https://github.com/openjdk/jdk
+
+6. https://github.com/tensorflow/models
